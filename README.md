@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend mentor solution link](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-UipqxrvsV_)
-- Live Site URL: [Deployed project link](https://your-live-site-url.com)
+- Live Site URL: [Deployed project link](https://nft-card-component-new.netlify.app/)
 
 ### Built with
 
