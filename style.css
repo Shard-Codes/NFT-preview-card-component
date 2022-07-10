@@ -47,7 +47,6 @@ img{
   background: var(--Second-dark-blue);
   box-shadow: 0 0 1.75rem rgba(0, 0, 0, 0.075);
   padding: 1.5rem;
-  display: grid;
   border-radius: 20px;
 }
 
@@ -58,7 +57,6 @@ img{
   background-position: center;
   background-size: cover;
   position: relative;
-  justify-self: center;
   border-radius: 10px;
   overflow: hidden;
   margin-bottom: 1.25rem;
